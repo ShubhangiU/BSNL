@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner
+{
+position:absolute;
+width:800px;
+height:200px;
+left:200px;
+z-index:1;
+color:black;
+font-size:50px;
+text-align:center;
+text-shadow:2px 2px;
+background-image:url(banner.jpg);
+}
